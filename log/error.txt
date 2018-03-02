@@ -1,0 +1,1396 @@
+
+
+Wed Jan 31 22:41:01 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 19, in handle_start
+    markup = types.ReplyKeyboardMarkup(row_width=2)
+NameError: name 'types' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:41:11 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 19, in handle_start
+    markup = types.ReplyKeyboardMarkup(row_width=2)
+NameError: name 'types' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:41:21 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 19, in handle_start
+    markup = types.ReplyKeyboardMarkup(row_width=2)
+NameError: name 'types' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:41:31 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 19, in handle_start
+    markup = types.ReplyKeyboardMarkup(row_width=2)
+NameError: name 'types' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:41:41 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 19, in handle_start
+    markup = telebot.types.ReplyKeyboardMarkup(row_width=2)
+NameError: name 'types' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:41:51 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 19, in handle_start
+    markup = telebot.types.ReplyKeyboardMarkup(row_width=2)
+NameError: name 'types' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:42:52 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 20, in handle_start
+    itembtn1 = types.KeyboardButton('a')
+NameError: name 'types' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:43:02 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 20, in handle_start
+    itembtn1 = types.KeyboardButton('a')
+NameError: name 'types' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:43:15 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 20, in handle_start
+    itembtn1 = types.KeyboardButton('a')
+NameError: name 'types' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:44:29 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 24, in handle_start
+    tb.send_message(chat_id, "Choose one letter:", reply_markup=markup)
+NameError: name 'tb' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:44:39 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 24, in handle_start
+    bot.send_message(chat_id, "Choose one letter:", reply_markup=markup)
+NameError: name 'tb' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:45:03 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 24, in handle_start
+    bot.send_message(chat_id, "Choose one letter:", reply_markup=markup)
+NameError: name 'chat_id' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:45:13 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 24, in handle_start
+    bot.send_message(chat_id, "Choose one letter:", reply_markup=markup)
+NameError: name 'chat_id' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:45:23 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 61, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 24, in handle_start
+    bot.send_message(message.from_user.id, "Choose one letter:", reply_markup=markup)
+NameError: name 'chat_id' is not defined
+
+<<ERROR polling>>
+
+Wed Jan 31 22:56:01 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 57, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 16, in handle_start
+    gui.row('/update', 'take a picture', '/stop')
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/types.py", line 824, in row
+    btn_array.append(button.to_dic())
+AttributeError: 'str' object has no attribute 'to_dic'
+
+<<ERROR polling>>
+
+Wed Jan 31 22:56:11 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 57, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 16, in handle_start
+    gui.row('/update', 'take a picture', '/stop')
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/types.py", line 824, in row
+    btn_array.append(button.to_dic())
+AttributeError: 'str' object has no attribute 'to_dic'
+
+<<ERROR polling>>
+
+Wed Jan 31 23:04:39 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 62, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 23, in handle_start
+    bot.answer_callback_query(message.call.id, show_alert=True, text="Дата выбрана")
+AttributeError: 'Message' object has no attribute 'call'
+
+<<ERROR polling>>
+
+Wed Jan 31 23:09:56 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 67, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 25, in handle_start
+    markup.row("хуй", "пизда")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/types.py", line 824, in row
+    btn_array.append(button.to_dic())
+AttributeError: 'str' object has no attribute 'to_dic'
+
+<<ERROR polling>>
+
+Wed Jan 31 23:10:06 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 67, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 692, in reraise
+    raise value.with_traceback(tb)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 25, in handle_start
+    markup.row("хуй", "пизда")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/types.py", line 824, in row
+    btn_array.append(button.to_dic())
+AttributeError: 'str' object has no attribute 'to_dic'
+
+<<ERROR polling>>
+
+Wed Jan 31 23:11:00 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 67, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 25, in handle_start
+    markup.row("хуй", "пизда")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/types.py", line 824, in row
+    btn_array.append(button.to_dic())
+AttributeError: 'str' object has no attribute 'to_dic'
+
+<<ERROR polling>>
+
+Wed Jan 31 23:11:10 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "bot.py", line 67, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 25, in handle_start
+    markup.row("хуй", "пизда")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/types.py", line 824, in row
+    btn_array.append(button.to_dic())
+AttributeError: 'str' object has no attribute 'to_dic'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 67, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 288, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 107, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "bot.py", line 25, in handle_start
+    markup.row("хуй", "пизда")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/types.py", line 824, in row
+    btn_array.append(button.to_dic())
+AttributeError: 'str' object has no attribute 'to_dic'
+
+<<ERROR polling>>
+
+Thu Feb  1 12:53:01 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 383, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 440, in send
+    timeout=timeout
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/util/retry.py", line 357, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 389, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 309, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+<<ERROR polling>>
+
+Thu Feb  1 13:04:35 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 383, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 440, in send
+    timeout=timeout
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/util/retry.py", line 357, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 389, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 309, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+<<ERROR polling>>
+
+Thu Feb  1 13:04:45 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 383, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 440, in send
+    timeout=timeout
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/util/retry.py", line 357, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 389, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 309, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 508, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot331789180:AAFTu-4IvG2DbzJz20WsxB2Y6a7QTmlAScU/getUpdates?offset=14181552&timeout=60 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ffc0240>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+<<ERROR polling>>
+
+Thu Feb  1 13:05:55 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 383, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 440, in send
+    timeout=timeout
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/util/retry.py", line 357, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 389, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 309, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 508, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot331789180:AAFTu-4IvG2DbzJz20WsxB2Y6a7QTmlAScU/getUpdates?offset=14181552&timeout=60 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ffc0240>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 508, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot331789180:AAFTu-4IvG2DbzJz20WsxB2Y6a7QTmlAScU/getUpdates?offset=14181552&timeout=60 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ffd1160>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+<<ERROR polling>>
+
+Thu Feb  1 13:06:35 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 383, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 440, in send
+    timeout=timeout
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/util/retry.py", line 357, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 389, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 309, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 508, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot331789180:AAFTu-4IvG2DbzJz20WsxB2Y6a7QTmlAScU/getUpdates?offset=14181552&timeout=60 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ffc0240>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 508, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot331789180:AAFTu-4IvG2DbzJz20WsxB2Y6a7QTmlAScU/getUpdates?offset=14181552&timeout=60 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ffd1160>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 508, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot331789180:AAFTu-4IvG2DbzJz20WsxB2Y6a7QTmlAScU/getUpdates?offset=14181552&timeout=60 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ffd1f60>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+<<ERROR polling>>
+
+Thu Feb  1 13:08:00 2018
+<<ERROR polling>>
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 383, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 440, in send
+    timeout=timeout
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/util/retry.py", line 357, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 389, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/urllib3/connectionpool.py", line 309, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 508, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot331789180:AAFTu-4IvG2DbzJz20WsxB2Y6a7QTmlAScU/getUpdates?offset=14181552&timeout=60 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ffc0240>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 508, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot331789180:AAFTu-4IvG2DbzJz20WsxB2Y6a7QTmlAScU/getUpdates?offset=14181552&timeout=60 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ffd1160>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 508, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot331789180:AAFTu-4IvG2DbzJz20WsxB2Y6a7QTmlAScU/getUpdates?offset=14181552&timeout=60 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x10ffd1f60>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "bot.py", line 69, in telegram_polling
+    bot.polling(none_stop=True, timeout=60) #constantly get messages from Telegram
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 264, in polling
+    self.__threaded_polling(none_stop, interval, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 287, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 77, in raise_exceptions
+    six.reraise(self.exc_info[0], self.exc_info[1], self.exc_info[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/six.py", line 693, in reraise
+    raise value
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/util.py", line 58, in run
+    task(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 159, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1), timeout=timeout)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/__init__.py", line 129, in get_updates
+    json_updates = apihelper.get_updates(self.token, offset, limit, timeout, allowed_updates)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 175, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/telebot/apihelper.py", line 54, in _make_request
+    timeout=(connect_timeout, read_timeout), proxies=proxy)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=70)
+
+<<ERROR polling>>
